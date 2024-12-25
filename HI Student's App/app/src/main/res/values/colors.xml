@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="difficulty_easy">#4CAF50</color>
+    <color name="primaryColor">#6200EE</color>
+    <color name="difficulty_medium">#FFC107</color>
+    <color name="difficulty_hard">#F44336</color>
+    <color name="gray_200">#EEEEEE</color>
+    <color name="gray_600">#757575</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_dark">#757575</color>
+
+    <!-- Warna dasar latar belakang -->
+    <color name="background_color">#F5F5F5</color> <!-- Warna abu terang -->
+
+    <!-- Warna Dasar -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Warna Biru -->
+    <color name="navy">#2D3D4F</color>
+    <color name="blue">#007bff</color>
+    <color name="light_blue">#4FC3F7</color>
+    <color name="dark_blue">#1976D2</color>
+    <color name="sky_blue">#87CEEB</color>
+
+    <!-- Warna Hijau -->
+    <color name="green">#4CAF50</color>
+    <color name="dark_green">#2E7D32</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="mint_green">#00BFA5</color>
+
+    <!-- Warna Merah -->
+    <color name="red">#F44336</color>
+    <color name="dark_red">#D32F2F</color>
+    <color name="light_red">#EF5350</color>
+    <color name="maroon">#800000</color>
+
+    <!-- Warna Ungu -->
+    <color name="purple">#9C27B0</color>
+    <color name="light_purple">#BA68C8</color>
+    <color name="dark_purple">#7B1FA2</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <!-- Warna Kuning dan Oranye -->
+    <color name="yellow">#FFEB3B</color>
+    <color name="gold">#FFD700</color>
+    <color name="orange">#FF9800</color>
+    <color name="dark_orange">#F57C00</color>
+
+    <!-- Warna Abu-abu -->
+    <color name="gray">#9E9E9E</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="dark_gray">#616161</color>
+    <color name="silver">#C0C0C0</color>
+
+    <!-- Warna Pastel -->
+    <color name="pastel_blue">#A7C7E7</color>
+    <color name="pastel_green">#98FB98</color>
+    <color name="pastel_pink">#FFB6C1</color>
+    <color name="pastel_yellow">#FFFACD</color>
+</resources>

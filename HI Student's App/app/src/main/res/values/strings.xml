@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Hai Student\'s</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Belajar berbagai bidang pengetahuan, mulai dari matematika, Android, iOS, Machine Learning, Cloud, hingga Front-End dan Back-End, semuanya ada di sini! Temukan teman belajar dan peer tutor untuk membantu perjalanan belajarmu.</string>
+    <string name="title_welcome_page">Selamat Datang di Hai Student\'s!</string>
+    <string name="title_signup_page">Daftar dan mulai perjalanan belajarmu dengan teman dan tutor</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silakan masukkan data untuk login</string>
+    <string name="title_login_page">Siap untuk meningkatkan skill dan belajar bersama?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat belajar di Hai Student\'s, tempat terbaik untuk menemukan peer tutor dalam berbagai bidang pengetahuan, termasuk matematika dan IT!</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
